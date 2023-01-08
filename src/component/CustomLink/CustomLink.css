@@ -1,5 +1,23 @@
 .Custom-Link {
-    border: 5px solid brown;
     padding: 10px;
     margin: 10px;
+    border-radius: 10px;
+}
+
+.ActiveLink {
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+    border: 10px solid blue;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.NotActiveLink {
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    border: white 10px solid;
+    border-radius: 10px;
+    font-weight: bold;
 }

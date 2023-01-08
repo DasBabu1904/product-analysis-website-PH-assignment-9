@@ -7,10 +7,12 @@ import Dashboard from './component/Dashboard/Dashboard';
 import Blogs from './component/Blogs/Blogs';
 import About from './component/About/About';
 import NotFoundPage from './component/NotFoundPage/NotFoundPage';
+import CustomTitle from './hooks/title';
 
 function App() {
+  CustomTitle()
   return (
-    <div className="App">
+    < div className="App" >
       <Header></Header>
       <Routes>
         <Route path="/" element={<Home></Home>} />
@@ -21,7 +23,7 @@ function App() {
         <Route path="/about" element={<About></About>} />
         <Route path="*" element={<NotFoundPage></NotFoundPage>} />
       </Routes>
-    </div>
+    </div >
   );
 }
 

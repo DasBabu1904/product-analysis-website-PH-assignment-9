@@ -9,3 +9,28 @@
     font-size: medium;
     text-decoration: none;
 }
+
+p {
+    font-size: 1.5em;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+.site-intro-paragraph {
+    margin: 20px;
+
+    justify-content: center;
+}
+
+.picture-size {
+    width: 600px;
+}
+
+.site-intro {
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
