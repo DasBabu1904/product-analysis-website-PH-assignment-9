@@ -1,0 +1,98 @@
+[
+    {
+        "_id": "63708b7a480c35df7bacaaca",
+        "price": 5992.07,
+        "name": "Aguirre Gross",
+        "email": "aguirregross@amril.com",
+        "phone": "+1 (850) 442-3852",
+        "picture": "./picture/1.jpg"
+    },
+    {
+        "_id": "63708b7a7bb13ab9ce87d8f3",
+        "price": 4037.82,
+        "name": "Melba Boyle",
+        "email": "melbaboyle@amril.com",
+        "phone": "+1 (939) 454-3118",
+        "picture": "./picture/2.jpg"
+    },
+    {
+        "_id": "63708b7a6566959c0feebe65",
+        "price": 3022.08,
+        "name": "Mccullough Price",
+        "email": "mcculloughprice@amril.com",
+        "phone": "+1 (835) 412-2028",
+        "picture": "./picture/3.jpg"
+    },
+    {
+        "_id": "63708b7af8e2c19b2ccf2026",
+        "price": 9152.73,
+        "name": "Alta Hansen",
+        "email": "altahansen@amril.com",
+        "phone": "+1 (933) 525-2591",
+        "picture": "./picture/4.jpg"
+    },
+    {
+        "_id": "63708b7a79203cb1358d26cb",
+        "price": 5971.44,
+        "name": "Dennis Mayo",
+        "email": "dennismayo@amril.com",
+        "phone": "+1 (932) 576-2639",
+        "picture": "./picture/5.jpg"
+    },
+    {
+        "_id": "63708b7a00654f22dd3fca26",
+        "price": 1759.6,
+        "name": "Lenora Fuller",
+        "email": "lenorafuller@amril.com",
+        "phone": "+1 (812) 564-3208",
+        "picture": "./picture/6.jpg"
+    },
+    {
+        "_id": "63708b7a5408099ded3229b4",
+        "price": 9505.05,
+        "name": "Mcknight Kemp",
+        "email": "mcknightkemp@amril.com",
+        "phone": "+1 (921) 453-2090",
+        "picture": "./picture/7.jpg"
+    },
+    {
+        "_id": "63708b7add293476122b330f",
+        "price": 7692.49,
+        "name": "Cherry Conner",
+        "email": "cherryconner@amril.com",
+        "phone": "+1 (830) 581-2405",
+        "picture": "./picture/8.jpg"
+    },
+    {
+        "_id": "63708b7a4effc8e603cef8b3",
+        "price": 5837.06,
+        "name": "James Ellis",
+        "email": "jamesellis@amril.com",
+        "phone": "+1 (962) 467-3149",
+        "picture": "./picture/9.jpg"
+    },
+    {
+        "_id": "63708b7ad197338c3941968e",
+        "price": 7147.01,
+        "name": "Allen Phillips",
+        "email": "allenphillips@amril.com",
+        "phone": "+1 (819) 464-3309",
+        "picture": "./picture/10.jpg"
+    },
+    {
+        "_id": "63708b7a33c1533beeeada4e",
+        "price": 5135.78,
+        "name": "Alberta Rios",
+        "email": "albertarios@amril.com",
+        "phone": "+1 (856) 548-3728",
+        "picture": "./picture/11.jpg"
+    },
+    {
+        "_id": "63708b7a9819ac5681fb7ea0",
+        "price": 4918.62,
+        "name": "Gibbs Nielsen",
+        "email": "gibbsnielsen@amril.com",
+        "phone": "+1 (989) 582-2963",
+        "picture": "./picture/12.jpg"
+    }
+]
