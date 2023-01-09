@@ -3,7 +3,6 @@
     border: 5px royalblue;
     border-radius: 5px;
     padding: 10px;
-    margin: 5px;
     color: aliceblue;
     font-weight: bold;
     font-size: medium;
@@ -14,7 +13,7 @@ p {
     font-size: 1.5em;
 }
 
-h1 {
+.Welcome-header {
     font-size: 3em;
 }
 
@@ -26,11 +25,23 @@ h1 {
 
 .picture-size {
     width: 600px;
+    border-radius: 10px;
 }
 
 .site-intro {
     display: flex;
     align-items: center;
-    margin-top: 100px;
-    margin-bottom: 100px;
+    margin: 100px;
+
+}
+
+.home-view {
+    display: inline-block;
+    justify-content: center;
+}
+
+.footer-style {
+    background-color: black;
+    color: white;
+    padding: 50px;
 }

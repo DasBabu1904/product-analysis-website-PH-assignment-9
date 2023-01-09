@@ -1,0 +1,16 @@
+.Card-img {
+    width: 500px;
+    border-radius: 5px;
+}
+
+.Card-Details {
+    width: 500px;
+    background-color: antiquewhite;
+    border: 20px solid rgb(244, 193, 150);
+    border-radius: 5px;
+}
+
+.Card-Style {
+    display: flex;
+    margin: 50px;
+}
