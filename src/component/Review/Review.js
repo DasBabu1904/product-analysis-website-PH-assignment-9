@@ -5,7 +5,7 @@ const Review = (props) => {
     const sites = props.sites
     return (
         <div>
-            <h1>This is review</h1>
+
             <div className='review-sec'>
                 {sites.map(site => <Card site={site} key={site._id}></Card>)}
             </div>

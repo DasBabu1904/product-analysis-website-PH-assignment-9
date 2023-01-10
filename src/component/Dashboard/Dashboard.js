@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { Area, AreaChart, Bar, BarChart, CartesianGrid, Legend, Line, LineChart, RadialBar, RadialBarChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
+import { Area, AreaChart, Bar, BarChart, CartesianGrid, Cell, Legend, Line, LineChart, Tooltip, XAxis, YAxis } from 'recharts';
 import useChartData from '../../hooks/useChartData';
 import './Dashboard.css'
 
@@ -20,17 +20,12 @@ const Dashboard = () => {
 
     console.log(ChartData)
 
-    const stylePie = {
-        top: '50%',
-        right: 0,
-        transform: 'translate(0, -50%)',
-        lineHeight: '24px',
-    }
     return (
         <div>
-            <h1>This is dashboard</h1>
+            <h1>Out site statistics </h1>
             <div className='Display-in-a-row'>
                 <LineChart
+                    className='chart-box'
                     width={800}
                     height={500}
                     data={ChartData}
@@ -56,12 +51,13 @@ const Dashboard = () => {
                 </LineChart>
                 {console.log("Crossed")}
 
-                <BarChart width={800} height={500} data={data}>
+                <BarChart className='chart-box' width={800} height={500} data={data}>
                     <Bar dataKey="investment" fill="#8884d8" />
                 </BarChart>
             </div>
             <div className='Display-in-a-row'>
                 <AreaChart
+                    className='chart-box'
                     width={800}
                     height={500}
                     data={data}
@@ -75,16 +71,6 @@ const Dashboard = () => {
                     <Area type="monotone" dataKey="revenue" stackId="1" stroke="#ffc658" fill="#ffc658" />
                 </AreaChart>
 
-                <RadialBarChart cx="50%" cy="50%" innerRadius="10%" outerRadius="80%" barSize={10} data={ChartData}>
-                    <RadialBar
-                        minAngle={15}
-                        label={{ position: 'insideStart', fill: '#fff' }}
-                        background
-                        clockWise
-                        dataKey="sell"
-                    />
-                    <Legend iconSize={10} layout="vertical" verticalAlign="middle" wrapperStyle={stylePie} />
-                </RadialBarChart>
             </div>
         </div>
     );
