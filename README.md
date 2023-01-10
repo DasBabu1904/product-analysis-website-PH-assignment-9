@@ -5,12 +5,13 @@
 * In the dashboard you can see graph about our site growth. 
 * In the about page you can read more about the site.
 * In this project we use various technologies. Example
-   <div align=center> 
-    * HTML
-    * CSS
-    * Javascript
-    * React
-    * React Router
-    * React recharts
-    <div>
+   
+     HTML<br>
+     CSS<br>
+     Javascript<br>
+     React<br>
+     React Router<br>
+     React recharts<br>
 ***
+
+    
