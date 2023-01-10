@@ -2,6 +2,7 @@
     {
         "_id": "63708b7a480c35df7bacaaca",
         "profile": "Sourav Das",
+        "profile_picture": "./profilePicture/profile.jpg",
         "price": 5992.07,
         "name": "Aguirre Gross",
         "email": "aguirregross@amril.com",
@@ -12,6 +13,7 @@
     {
         "_id": "63708b7a7bb13ab9ce87d8f3",
         "profile": "Bolod Das",
+        "profile_picture": "./profilePicture/profile.jpg",
         "price": 4037.82,
         "name": "Melba Boyle",
         "email": "melbaboyle@amril.com",
@@ -22,6 +24,7 @@
     {
         "_id": "63708b7a6566959c0feebe65",
         "profile": "Solod Das",
+        "profile_picture": "./profilePicture/profile.jpg",
         "price": 3022.08,
         "name": "Mccullough Price",
         "email": "mcculloughprice@amril.com",
@@ -32,6 +35,7 @@
     {
         "_id": "63708b7af8e2c19b2ccf2026",
         "profile": "Goru Das",
+        "profile_picture": "./profilePicture/profile.jpg",
         "price": 9152.73,
         "name": "Alta Hansen",
         "email": "altahansen@amril.com",
@@ -42,6 +46,7 @@
     {
         "_id": "63708b7a79203cb1358d26cb",
         "profile": "Famous Das",
+        "profile_picture": "./profilePicture/profile.jpg",
         "price": 5971.44,
         "name": "Dennis Mayo",
         "email": "dennismayo@amril.com",
@@ -52,6 +57,7 @@
     {
         "_id": "63708b7a00654f22dd3fca26",
         "profile": "Tarunnyamoye Das",
+        "profile_picture": "./profilePicture/profile.jpg",
         "price": 1759.6,
         "name": "Lenora Fuller",
         "email": "lenorafuller@amril.com",
@@ -62,6 +68,7 @@
     {
         "_id": "63708b7a5408099ded3229b4",
         "profile": "Nabil Das",
+        "profile_picture": "./profilePicture/profile.jpg",
         "price": 9505.05,
         "name": "Mcknight Kemp",
         "email": "mcknightkemp@amril.com",
@@ -72,6 +79,7 @@
     {
         "_id": "63708b7add293476122b330f",
         "profile": "Shovon Das",
+        "profile_picture": "./profilePicture/profile.jpg",
         "price": 7692.49,
         "name": "Cherry Conner",
         "email": "cherryconner@amril.com",
@@ -82,6 +90,7 @@
     {
         "_id": "63708b7a4effc8e603cef8b3",
         "profile": "Coder Das",
+        "profile_picture": "./profilePicture/profile.jpg",
         "price": 5837.06,
         "name": "James Ellis",
         "email": "jamesellis@amril.com",
@@ -92,6 +101,7 @@
     {
         "_id": "63708b7ad197338c3941968e",
         "profile": "DasBabu ",
+        "profile_picture": "./profilePicture/profile.jpg",
         "price": 7147.01,
         "name": "Allen Phillips",
         "email": "allenphillips@amril.com",
@@ -102,6 +112,7 @@
     {
         "_id": "63708b7a33c1533beeeada4e",
         "profile": "JavaScript Das",
+        "profile_picture": "./profilePicture/profile.jpg",
         "price": 5135.78,
         "name": "Alberta Rios",
         "email": "albertarios@amril.com",
@@ -112,6 +123,7 @@
     {
         "_id": "63708b7a9819ac5681fb7ea0",
         "profile": "CodeBlocks Das",
+        "profile_picture": "./profilePicture/profile.jpg",
         "price": 4918.62,
         "name": "Gibbs Nielsen",
         "email": "gibbsnielsen@amril.com",
