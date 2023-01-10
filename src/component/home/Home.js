@@ -5,6 +5,7 @@ import Card from '../Card/Card';
 import "./Home.css";
 const Home = ({ sites }) => {
 
+    console.log(sites)
     const [homeView, setHomeView] = useState([]);
 
     useEffect(() => {
